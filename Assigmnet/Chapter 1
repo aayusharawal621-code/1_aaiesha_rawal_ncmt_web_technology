@@ -61,7 +61,7 @@ How Packet Switching Works:
 ⦁	At the destination, packets are reassembled to form the original data.
 
 Group C: Scenario-Based Questions (5 Marks)
-8.A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+8. A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
 Answer:
 I would not agree with using a dynamic website.
 
@@ -72,18 +72,16 @@ Justification:
 ⦁	Dynamic websites are complex and expensive.
 ⦁	A static website is more suitable and efficient here.
 
-9.A user types www.google.com into their browser, but the browser displays a ”Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
-Problem:
+9.A user types www.google.com into their browser, but the browser displays a ”Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed
 The issue is with DNS (Domain Name System).
-
 Explanation:
 ⦁	DNS converts domain names into IP addresses.
 ⦁	The browser cannot translate www.google.com into its IP.
 ⦁	Internet connection is working properly.
 ⦁	Accessing the website using IP works because DNS is skipped.
 
-10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why.
-They should implement an Extranet.
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
 Why:
 ⦁ An Intranet is a private network accessible only to the organization’s internal employees, so suppliers outside the company wouldn’t be able to access it.
 ⦁ The Internet is public and accessible to everyone, making it unsuitable for sharing sensitive data securely.
