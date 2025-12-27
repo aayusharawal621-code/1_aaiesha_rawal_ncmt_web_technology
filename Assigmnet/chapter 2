@@ -1,5 +1,7 @@
 CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
+
 Group A: Short Questions (2 Marks)
+
 1. Define the term ”Sitemap” in the planning phase.
 Answer:A sitemap is a hierarchical diagram or outline that maps out the structure of a website, listing all main pages, sub-pages, and their relationships. It serves as a blueprint for navigation, content organization, and userflow during the planning phase, helping ensure logical site architecture and aiding SEO.
 
@@ -15,8 +17,7 @@ Back-end development handles the server-side logic, databases, and functionality
 
 Group B: Long Questions (4 Marks)
 
-5. ”Planning is the most critical phase of web development.” Discuss this statement by listing
-the key activities performed during the planning phase.
+5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
 Answer:Planning is the most critical phase because it lays the foundation for the entire project, preventing costly changes later by aligning the website with business goals and user needs. It converts collected information into a structured plan.It defines websites structure, technology, and timeline.
 Key activities performed during the planning phase are;
 1.Sitemap Creation
@@ -44,8 +45,7 @@ Key activities performed during the planning phase are;
 7.Timeline and milestones
 -Deadlines for each stage.
 
-6. Explain the iterative nature of the Maintenance phase. Why is a website never truly
-”finished”?
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
 Answer:The maintenance phase is iterative because without maintenance, a site becomes a security risk and loses search rankings.Maintenance begins immediately after launch. Websites require ongoing updates, monitoring, and improvements rather than a one-time completion.
 Type of Maintenance
 1.Content Updates:Adding new blog posts, updating product prices, or changing contact info.
@@ -87,8 +87,7 @@ The target audience is crucial because it ensures the websitemeets their needs,p
 
 Group C: Scenario-Based Questions (5 Marks)
 
-8. You are the project manager for a new e-commerce site. The client wants to skip the
-”Testing” phase to save money and launch early. Write a persuasive argument explaining
+8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining
 the potential risks (security, functionality, compatibility) of skipping this phase.
 Answer:Skipping the testing phase is a high-risk decision that could lead to far greater costs and damage later.
 Key risks include:
@@ -102,14 +101,12 @@ Undiscovered bugs could cause broken features(e.g., checkout failures, leading t
 The site may not work across browsers,devices,or screen sizes,alienating mobile users and harming user experience/SEO.
 Overall,post launch fixes are 4,5 times more epensive than early detection,potentially delaying launch anyway due to emegencies,damaging reputation,and reducing revenue.Through testing ensures a reliable,secure launch saving money long-term.
 
-9. A developer begins coding a website immediately after meeting the client, without creating
-a design prototype or sitemap. Midway through, the client rejects the layout. Analyze
+9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze
 what went wrong in the process and how it should have been handled.
 Answer:While analyzing,What went wrong includes the developer skipped critical planning and design phases(sitemap and prototyping),and jumping staright to coding.This led to misaligned expectations,wasted developement time,and costly rework when the client rejected the layout.It also leads to poor communication.
 How it should have been handled:Follow a structured process-start with information gathering,create a sitemap for structure/navigation,then develop wireframes/prototypes for layout approval.Get client sign-off on prototypes before coding.This validates design early,reduces changes,ensures alignment witj client vision,and saves time/resources.
 
-10. A university website was launched successfully, but after six months, students stopped
-visiting it because the exam schedules were outdated. Which phase of the development
+10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development
 lifecycle was neglected? Explain the activities involved in this phase.
 Answer:The maintenance phase was neglected.
 Activities in the maintenance phase include:
